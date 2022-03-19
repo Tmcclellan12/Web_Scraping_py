@@ -1,3 +1,6 @@
+##Scrapes AOC website "housing as a human right"
+##Exports a text file w/ data 
+
 import requests
 from bs4 import BeautifulSoup
 
